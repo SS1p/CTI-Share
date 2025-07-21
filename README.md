@@ -20,9 +20,8 @@ Here is the English translation of the introduction for your GitHub repository *
 - Integrating threat intelligence into Security Operations Centers (SOC)  
 - Security research and education  
 
-## How to Contribute
 
-We welcome contributions through Issues or Pull Requests! Whether it’s sharing data, contributing code, or providing suggestions, we look forward to building a powerful threat intelligence sharing platform with the community.
 
 ---
 
+[![Star History Chart](https://api.star-history.com/svg?repos=CTI-Share/CTI-Share&type=Date)](https://www.star-history.com/#CTI-Share/CTI-Share&Date)
