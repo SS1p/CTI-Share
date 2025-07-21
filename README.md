@@ -1,8 +1,4 @@
-# CTI-Share
 
-Here is the English translation of the introduction for your GitHub repository **CTI-Share**:
-
----
 
 # CTI-Share
 
